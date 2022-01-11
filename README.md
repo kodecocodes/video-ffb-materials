@@ -1,7 +1,7 @@
-# Flutter Firebase: Materials
+# Beginning Firebase with Flutter: Materials
 
 
-This repo contains all the downloadable materials and projects associated with the **[Flutter Firebase](https://www.raywenderlich.com/21451798-beginning-firebase-with-flutter)** from [raywenderlich.com](https://www.raywenderlich.com).
+This repo contains all the downloadable materials and projects associated with the **[Beginning Firebase with Flutter](https://www.raywenderlich.com/21451798-beginning-firebase-with-flutter)** from [raywenderlich.com](https://www.raywenderlich.com).
 
 Each edition has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent edition.
 
